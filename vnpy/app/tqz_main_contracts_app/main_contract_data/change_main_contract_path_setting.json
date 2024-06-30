@@ -1,0 +1,24 @@
+{
+    "cta_strategy_data_path": {
+        "hsr_strategy": {
+            "账户名1": "C:\\Users\\HIAPAD\\Desktop\\tqz_vnpy_futures\\tqzpy_futures/.vntrader/hsr_data.json"
+        },
+        "hla_strategy": {
+            "账户名1": "C:\\Users\\HIAPAD\\Desktop\\tqz_vnpy_futures\\tqzpy_futures/.vntrader/hla_data.json"
+        }
+    },
+    "cta_strategy_setting_path": {
+        "hsr_strategy": {
+            "账户名1": "C:\\Users\\HIAPAD\\Desktop\\tqz_vnpy_futures\\tqzpy_futures/.vntrader/hsr_setting.json"
+        },
+        "hla_strategy": {
+            "账户名1": "C:\\Users\\HIAPAD\\Desktop\\tqz_vnpy_futures\\tqzpy_futures/.vntrader/hla_setting.json"
+        }
+    },
+    "portfolio_strategy_data_path": {
+        "账户名1_pair_trading": "C:\\Users\\HIAPAD\\Desktop\\tqz_vnpy_futures\\tqzpy_futures/.vntrader/pair_trading_data.json"
+    },
+    "portfolio_strategy_setting_path": {
+        "账户名1_pair_trading": "C:\\Users\\HIAPAD\\Desktop\\tqz_vnpy_futures\\tqzpy_futures/.vntrader/pair_trading_setting.json"
+    }
+}
